@@ -1,15 +1,13 @@
-Deskripsi Singkat
+📋 Deskripsi Singkat
 Sistem ini merupakan aplikasi berbasis web yang digunakan untuk melakukan seleksi dan pemeringkatan calon karyawan menggunakan dua metode pengambilan keputusan multikriteria:
 
-Weighted Product (WP)
-
-VIKOR
+**Weighted Product (WP)**
+**VIKOR**
 
 Sistem ini dirancang untuk digunakan oleh dua jenis pengguna:
 
-Admin: mengelola kriteria penilaian dan melihat hasil perhitungan.
-
-HRD: menginput alternatif (kandidat) dan memberikan nilai berdasarkan kriteria.
+**Admin: mengelola kriteria penilaian dan melihat hasil perhitungan.**
+**HRD: menginput alternatif (kandidat) dan memberikan nilai berdasarkan kriteria.**
 
 ⚙️ Teknologi yang Digunakan
 Laravel 12.x (Backend Framework)
@@ -24,7 +22,7 @@ DomPDF (Export hasil ke PDF)
 
 MySQL / MariaDB (Database)
 
-🚀 Cara Menjalankan Aplikasi
+ Cara Menjalankan Aplikasi
 Clone repo ini
 
 bash
